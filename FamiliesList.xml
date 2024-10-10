@@ -1,0 +1,77 @@
+<LogFiles version="1">
+ <loginfo>
+  <MainFamily>Mud Logs</MainFamily>
+  <Family>Mud Gas C5s</Family>
+  <Unit> </Unit>
+  <Measurement>Dimensionless</Measurement>
+ </loginfo>
+ <loginfo>
+  <MainFamily>Mud Logs</MainFamily>
+  <Family>Mud Gas C8</Family>
+  <Unit>ppm</Unit>
+  <Measurement>Concentration</Measurement>
+  <Min>0.1</Min>
+  <Max>1e+06</Max>
+  <Scale>Logarithmic</Scale>
+ </loginfo>
+ <loginfo>
+  <MainFamily>Mud Logs</MainFamily>
+  <Family>Mud Gas C6</Family>
+  <Unit>ppm</Unit>
+  <Measurement>Concentration</Measurement>
+  <Min>0.1</Min>
+  <Max>1e+06</Max>
+  <Scale>Logarithmic</Scale>
+ </loginfo>
+ <loginfo>
+  <MainFamily>Mud Logs</MainFamily>
+  <Family>Mud Gas Toluene</Family>
+  <Unit>ppm</Unit>
+  <Measurement>Concentration</Measurement>
+  <Min>0.1</Min>
+  <Max>1e+06</Max>
+  <Scale>Logarithmic</Scale>
+ </loginfo>
+ <loginfo>
+  <MainFamily>Mud Logs</MainFamily>
+  <Family>Mud Gas C7</Family>
+  <Unit>ppm</Unit>
+  <Measurement>Concentration</Measurement>
+  <Min>0.1</Min>
+  <Max>1e+06</Max>
+  <Scale>Logarithmic</Scale>
+ </loginfo>
+ <loginfo>
+  <MainFamily>Mud Logs</MainFamily>
+  <Family>Mud Gas Ethene</Family>
+  <Unit>ppm</Unit>
+  <Measurement>Concentration</Measurement>
+  <Min>0.1</Min>
+  <Max>1e+06</Max>
+  <Scale>Logarithmic</Scale>
+ </loginfo>
+ <loginfo>
+  <MainFamily>Mud Logs</MainFamily>
+  <Family>Mud Gas Benzene</Family>
+  <Unit>ppm</Unit>
+  <Measurement>Concentration</Measurement>
+  <Min>0.1</Min>
+  <Max>1e+06</Max>
+  <Scale>Logarithmic</Scale>
+ </loginfo>
+ <loginfo>
+  <MainFamily>Mud Logs</MainFamily>
+  <Family>Mud Gas MCH</Family>
+  <Unit>ppm</Unit>
+  <Measurement>Concentration</Measurement>
+  <Min>0.1</Min>
+  <Max>1e+06</Max>
+  <Scale>Logarithmic</Scale>
+ </loginfo>
+ <loginfo>
+  <MainFamily>Mud Logs</MainFamily>
+  <Family>Mud Gas C4s</Family>
+  <Unit> </Unit>
+  <Measurement>Dimensionless</Measurement>
+ </loginfo>
+</LogFiles>
